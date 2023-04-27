@@ -1,3 +1,9 @@
-
-Esse repositorio  mostra site que fiço  semelhante a um BLOG, fiço esse site com auxilo da equipe da Hashtag Treinamentos.
-Esse aplicativo tem as seguintes funções:  Perfil do usúario, Pagina de Posts, Exluir e deletar post , Cadastro de usúario,  Lista de curso do usús.
+Meu Primeiro Site
+Esse repositorio mostra um BLOG que eu fiço em um curso da Hashtag Treinamento, nesse site utilizado o Framework Flask!
+O blog tem as seguintes funções:
+- Cadastro de usurio e Login
+- Edição Perfil
+- Criação Post
+- Deletar Post
+- Pagina aonde mosta as postagem dos usuário
+- Pagina de Contato
